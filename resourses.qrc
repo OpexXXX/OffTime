@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/topo">
+        <file>topo.txt</file>
+    </qresource>
+</RCC>
